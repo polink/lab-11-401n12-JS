@@ -1,0 +1,31 @@
+{
+  "name": "lab-11-401n12-JS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polink/lab-11-401n12-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/polink/lab-11-401n12-JS/issues"
+  },
+  "homepage": "https://github.com/polink/lab-11-401n12-JS#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.0",
+    "mongodb-memory-server": "^4.2.0",
+    "mongoose": "^5.4.19",
+    "morgan": "^1.9.1",
+    "supergoose": "^0.2.6",
+    "supertest": "^4.0.0"
+  }
+}
